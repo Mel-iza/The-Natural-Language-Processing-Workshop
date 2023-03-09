@@ -17,8 +17,9 @@ Rohan Chopra, Aniruddha M. Godbole, Nipun Sadvilvar, Muzaffar Bashir Sha, Sohom 
 ---
 
 <h3> Chapters </h3>
-<details> <summary> <b>1: Introduction to Natural Language Processing </b> </summary>
+<details> <summary> <b>1: Introduction to Natural Language Processing </b></summary>
 
+[Chapter 1 Notebook](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop/blob/main/NLP_Workshop_Chapter_1.ipynb)   
 - Introduction 
 - History of NLP 
 - Text Analytics and NLP
